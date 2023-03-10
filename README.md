@@ -1,5 +1,5 @@
 ### Hi there, I'm Pietro Orlandi! 👋
-- 📚  I am a Master's degree student in Computer Science who is passionate about data-science and machine-learning.<br>
+- 📚  I am a Master's degree student in Computer Science who is passionate about data science and machine learning.<br>
 - 💻  Here you can find several projects that I have developed both for personal purposes and for my university career.<br>
 
 If you are interested in collaborating with me on open-source projects or discussing potential career opportunities, please feel free to send me a message on _GitHub_ or connect with me on _LinkedIn_.
